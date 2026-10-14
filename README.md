@@ -2,7 +2,7 @@
 # What Separates Terminated from Completed Phase 3 Vaccine Trials?
 
 **An exploratory registry analysis with three case studies**
-Anosh Haral | October 2026 | Independent project (not clinical or employment experience)
+Anosh Haral | Independent project 
 Code and outputs: [vaccine_trails_analysis.ipynb]
 
 ---
