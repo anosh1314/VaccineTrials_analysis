@@ -3,7 +3,7 @@
 
 **An exploratory registry analysis with three case studies**
 Anosh Haral | Independent project 
-Code and outputs: [vaccine_trails_analysis.ipynb]
+Code and outputs: [[vaccine_trails_analysis.ipynb](https://github.com/anosh1314/VaccineTrials_analysis/blob/main/vaccine_trails_analysis.ipynb)]
 
 ---
 
